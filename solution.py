@@ -5,7 +5,6 @@
 def welcome_assignment_answers(question):
     #Students do not have to follow the skeleton for this assignment.
     #Another way to implement is using a "case" statements similar to C.
-    answer = input("Enter your answer")
     
     if question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
         answer = "mtls"
